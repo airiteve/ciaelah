@@ -51,7 +51,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 14 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Leverkusen vs Qarabag
-https://raw.githubusercontent.com/Acil2125/ee/main/ss%20laliga
+https://raw.githubusercontent.com/Acil2125/ee/main/sslaliga.m3u8
 #https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 14 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Aston Villa vs Ajax
