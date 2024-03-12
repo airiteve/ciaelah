@@ -51,9 +51,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 14 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Leverkusen vs Qarabag
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-https://webhdrus.onlinehdhls.ru/lb/premium417/index.m3u8|Origin=https://weblivehdplay.ru
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 14 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Aston Villa vs Ajax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
@@ -62,7 +60,51 @@ https://webhdrus.onlinehdhls.ru/lb/premium588/index.m3u8|Origin=https://webliveh
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+#EXTINF:-1 group-logo="" group-title="Matchday, 15 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Real Sociedad vs Cadiz
 
+#EXTINF:-1 group-logo="" group-title="Matchday, 15 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:45 Empoli vs Bologna
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 15 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:30 RB Leipzig vs Koln
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 15 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:00 Al Ahli vs Al Nassr
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 16 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:30 Fulham vs Spurs
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 16 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:00 Luton vs Forest
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 16 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:15 Real Madrid vs Osasuna
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 16 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:30 Girona vs Getafe
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 16 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:45 Lazio vs Frosinone
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 16 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:30 Munchen vs Darmstadt 98
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 16 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:00 Al Ittihad vs Al Fateh 
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 16 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:00 Al Hilal vs Dhamk 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 17 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:00 Aston Villa vs Westham United
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 17 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",20:00 Sevilla vs Celta Vigo
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 17 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 ATM vs Barcelona
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 17 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",18:30 Juventus vs Genoa
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 17 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:00 Milan vs Verona
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 17 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:00 Roma vs Sassulo
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 17 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:45 Internazionale vs Napoli
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 17 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:30 Leverkusen vs Freiburg
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 17 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",23:30 Dortmund vs Frankfurt 
 
 ===============================================================================
 
