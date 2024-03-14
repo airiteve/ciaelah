@@ -1,31 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/blob/main/epg.xml,https://github.com/AqFad2811/epg/blob/main/indonesia.xml,https://github.com/AqFad2811/epg/blob/main/astro.xml,https://github.com/AqFad2811/epg/blob/main/unifitv.xml"
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 12 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Arsenal vs Porto
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 12 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Barcelona vs Napoli
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 12 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:00 Al Hilal vs Al Ittihad
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 13 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Internazionale vs ATM
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 13 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Dortmund vs PSV
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
 #EXTINF:-1 group-logo="" group-title="Matchday, 14 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:45 Westham vs Freiburg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
@@ -51,8 +25,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 14 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Leverkusen vs Qarabag
-https://raw.githubusercontent.com/Acil2125/ee/main/sslaliga.m3u8
-#https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 14 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",3:00 Aston Villa vs Ajax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
@@ -1470,8 +1443,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium595/index.m3u8|Origin=https://webliveh
 #https://webudit.hlsjs.ru/lb/premium596/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="SS Action" tvg-name="SS Action" tvg-logo="https://i.postimg.cc/8z8RZZCB/SS-Action.png" group-title="|SPORTS| Premium 2🚩",Supersport Action 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://key.webhd.ru/wmsxx.php 
+https://raw.githubusercontent.com/Acil2125/ee/main/ssact.m3u8
 #https://webudit.hlsjs.ru/lb/premium420/index.m3u8|Origin=https://weblivehdplay.ru
 
 
@@ -1481,9 +1453,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium595/index.m3u8|Origin=https://webliveh
 #https://webudit.hlsjs.ru/lb/premium368/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="SS Football" tvg-name="SS Football" tvg-logo="https://i.postimg.cc/qq59P9F7/SS-Football.png" group-title="|SPORTS| Premium 2🚩",Supersport Football 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-https://webhdrus.onlinehdhls.ru/lb/premium56/index.m3u8|Origin=https://weblivehdplay.ru
+https://raw.githubusercontent.com/Acil2125/ee/main/ssfb
 #https://webudit.hlsjs.ru/lb/premium56/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="SS Golf" tvg-name="SS Golf" tvg-logo="https://i.postimg.cc/3xDGpmC4/SS-Golf.png" group-title="|SPORTS| Premium 2🚩",Supersport Golf 
@@ -1497,8 +1467,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium56/index.m3u8|Origin=https://weblivehd
 #https://webudit.hlsjs.ru/lb/premium412/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SuperSport LaLiga" tvg-logo="https://i.postimg.cc/HLMXXXmv/SS-La-Liga.png" group-title="|SPORTS| Premium 2🚩",Supersport LaLiga 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://key.webhd.ru/wmsxx.php 
+https://raw.githubusercontent.com/Acil2125/ee/main/sslaliga.m3u8
 #https://webudit.hlsjs.ru/lb/premium415/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="SuperSport MáXimo 1" tvg-name="SuperSport MáXimo 1" tvg-logo="https://i.postimg.cc/8cGL454d/SS-M-ximo1.png" group-title="|SPORTS| Premium 2🚩",SuperSport MáXimo 1 
@@ -1514,8 +1483,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8|Origin=https://webliveh
 
 
 #EXTINF:-1 tvg-id="SS Premier League" tvg-name="SS Premier League" tvg-logo="https://i.postimg.cc/SRfpM2XB/SS-EPL.png" group-title="|SPORTS| Premium 2🚩",Supersport Premier League 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://key.webhd.ru/wmsxx.php 
+https://raw.githubusercontent.com/Acil2125/ee/main/sspl.m3u8
 #https://webudit.hlsjs.ru/lb/premium414/index.m3u8|Origin=https://weblivehdplay.ru
 
 
@@ -1535,27 +1503,16 @@ https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8|Origin=https://webliveh
 #https://webudit.hlsjs.ru/lb/premium423/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="SS Variety 1" tvg-name="SS Variety 1" tvg-logo="https://i.postimg.cc/4dPp8GSr/SS-Variety-1.png" group-title="|SPORTS| Premium 2🚩",Supersport Variety 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-https://webhdrus.onlinehdhls.ru/lb/premium416/index.m3u8|Origin=https://weblivehdplay.ru
-#https://webudit.hlsjs.ru/lb/premium416/index.m3u8|Origin=https://weblivehdplay.ru
+https://raw.githubusercontent.com/Acil2125/ee/main/ssv1.m3u8
 
 #EXTINF:-1 tvg-id="SS Variety 2" tvg-name="SS Variety 2" tvg-logo="https://i.postimg.cc/KzjY2yzX/SS-Variety-2.png" group-title="|SPORTS| Premium 2🚩",Supersport Variety 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-https://webhdrus.onlinehdhls.ru/lb/premium417/index.m3u8|Origin=https://weblivehdplay.ru
-#https://webudit.hlsjs.ru/lb/premium417/index.m3u8|Origin=https://weblivehdplay.ru
+https://raw.githubusercontent.com/Acil2125/ee/main/ssv2.m3u8
 
 #EXTINF:-1 tvg-id="SS Variety 3" tvg-name="SS Variety 3" tvg-logo="https://i.postimg.cc/t49ZMwhb/SS-Variety-3.png" group-title="|SPORTS| Premium 2🚩",Supersport Variety 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-https://webhdrus.onlinehdhls.ru/lb/premium418/index.m3u8|Origin=https://weblivehdplay.ru
-#https://webudit.hlsjs.ru/lb/premium418/index.m3u8|Origin=https://weblivehdplay.ru
+https://raw.githubusercontent.com/Acil2125/ee/main/ssv3.m3u8
 
 #EXTINF:-1 tvg-id="SS Variety 4" tvg-name="SS Variety 4" tvg-logo="https://i.postimg.cc/ryHKW2Zw/GANAS-ss-var4.png" group-title="|SPORTS| Premium 2🚩",Supersport Variety 4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-https://webhdrus.onlinehdhls.ru/lb/premium419/index.m3u8|Origin=https://weblivehdplay.ru
+https://raw.githubusercontent.com/Acil2125/ee/main/ssv4.m3u8
 #https://webudit.hlsjs.ru/lb/premium419/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="|NL| ZIGGO SPORT VOETBAL FHD" tvg-logo="https://i.postimg.cc/zfwHNR9H/ziggo-VOETBAL.png" group-title="|SPORTS| Premium 1🚩",Ziggo Sport Voetbal 
