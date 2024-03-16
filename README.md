@@ -795,7 +795,7 @@ https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/man
 
 =========================================== SPORTS ===========================================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="|SPORTS| Mix🚩", MU TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="|SPORTS| Mix🚩", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4db4f95e42d5ab722ad92" group-title="|SPORTS| Mix🚩",Ski TV
@@ -2704,7 +2704,7 @@ https://linear002-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0003276bbe0b7f5c9c05ec201bddf545:a3546a8bd8d03e6f3ca48629ea45ebb8
 #https://linear006-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsgolf)/manifest_sd.mpd
-#EXTINF:-1 group-title="|SPORTS| Premium 2🚩" tvg-logo="https://i.imgur.com/Q2ztKWZ.png" ,Sky Sports Golf 
+#EXTINF:-1 group-title="|SPORTS| Premium 2🚩" tvg-logo="https://e0.365dm.com/tvlogos/channels/Sky-Sports-Logo.png" ,Sky Sports Golf 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
