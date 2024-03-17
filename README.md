@@ -158,10 +158,8 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd?p=web
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="|EVENT| BRI Liga 1🏆",LIVE 3 (BRI)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
+#https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="|EVENT| BRI Liga 1🏆",LIVE 1 (BRI)
@@ -982,7 +980,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium448/index.m3u8|Origin=https://webliveh
 #https://webudit.hlsjs.ru/lb/premium448/index.m3u8|Origin=https://weblivehdplay.ru
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ng9SDcr.png" group-title="|SPORTS| Premium 2⚽🚩", Zona Dazn IT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_del_canale_televisivo_Zona_DAZN.svg" group-title="|SPORTS| Premium 2⚽🚩", Zona Dazn IT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1029,7 +1027,8 @@ http://209.222.97.92:16493/Combate
 http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1&amp;f=.ch
 
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-name="unifi Sports 1" group-title="|SPORTS| Fight🥊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",unifi UFC
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
+#https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="|SPORTS| Fight🥊",Sony TEN 1 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
@@ -1864,28 +1863,28 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/Fox
 
 =========================================== ARENA SPORTS ===========================================
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Arena_Sport_1_Premium_%282021%2C_short%29.svg/revision/latest?cb=20221111214150",Arena 1 Premium
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wmvrmi1643205486.png",Arena 1 Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Arena_Sport_2_Premium_%282021%2C_short%29.svg/revision/latest?cb=20221111214150",Arena 2 Premium
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/l4y8gt1643205498.png",Arena 2 Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Arena_Sport_3_Premium_%282021%2C_short%29.svg/revision/latest?cb=20221111214149",Arena 3 Premium
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_Premium_BiH_BA_logo.png",Arena 3 Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Arena_Sport_1_%282019%2C_short%29.svg/revision/latest?cb=20221111214150",Arena Sport 1
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/2v005r1643205531.png",Arena Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1899,35 +1898,35 @@ https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Arena_Sport_2_%282019%2C_short%29.svg/revision/latest?cb=20221111214150",Arena Sport 2
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/m4cqz91643205540.png",Arena Sport 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Arena_Sport_3_%282019%2C_short%29.svg/revision/latest?cb=20221111214150",Arena Sport 3
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/hugsy31643206186.png",Arena Sport 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Arena_Sport_4_%282019%2C_short%29.svg/revision/latest?cb=20221111214150",Arena Sport 4
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/cvlppn1643205563.png",Arena Sport 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Arena_Sport_5_%282019%2C_short%29.svg/revision/latest?cb=20221111214150",Arena Sport 5
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/2kuqly1643205772.png",Arena Sport 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Arena_Sport_6_%282019%2C_short%29.svg/revision/latest?cb=20221111214150",Arena Sport 6
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3htl2t1643205783.png",Arena Sport 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2298,9 +2297,8 @@ http://cdn-main.lolokoko.tv/polsatsportnews.stream/chunks.m3u8
 =========================================== TV LOKAL ===========================================
 
 #EXTINF:-1 tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/gvdo" group-title="|TV| Indonesia🟥⬜",Indosiar HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://srtv.my.id/vd/play.m3u8?id=205&type=hls
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
+
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="|TV| Indonesia🟥⬜",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
@@ -2654,7 +2652,7 @@ https://linear014-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_720_30/Live/ch
 #KODIPROP:inputstream.adaptive.license_key=00051ec4671fcd3e8095f1e6118d9052:50304047eb0a462a4ba50add2596b215
 #http://linear005-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsfootball50)/manifest_mob.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 2⚽🚩" tvg-logo="https://i.imgur.com/J8zzS2v.png" ,Sky Sports Cricket 
+#EXTINF:-1 group-title="|SPORTS| Premium 2⚽🚩" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" ,Sky Sports Cricket 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0003f2a72d21efd159d45a3a74decd84:df0ec40586d641f3d4728ab5fd62adc3
 https://linear002-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportscricket)/manifest_sd.mpd
@@ -2684,7 +2682,7 @@ http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/mas
 #KODIPROP:inputstream.adaptive.license_key=00364ee1c777f44a74e4df12f3095503:77dee68a39366663755beb8fa62dcc1e
 http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 2⚽🚩" tvg-logo="https://i.imgur.com/PRF0DsV.png" ,Sky Sports Mix
+#EXTINF:-1 group-title="|SPORTS| Premium 2⚽🚩" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" ,Sky Sports Mix
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AAOmxhwrL38KnXYKyDwG2A","k":"cwX6ltNWMW8tVEv8eKaSLA"}]}
 https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(sportsmix50)/manifest_720.mpd
