@@ -1933,7 +1933,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://objektiv.rs/wp-content/uploads/2022/06/arena-sport-premier-liga.jpg",Arena Sport Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2235,30 +2235,30 @@ https://sport.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 =========================================== CANAL+ SPORTS ===========================================
 
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplssp1.png" , CANAL+ SPORT 1 HD 
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplssp1.png" , CANAL+ SPORT 1 
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400216431
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/fr/cnlpsp.png" , CANAL+ SPORT 1 SD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/163033
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplssp2.png" ,CANAL+ SPORT 2 HD 
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/163033
+
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplssp2.png" ,CANAL+ SPORT 2
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400216430
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplssp2.png" ,CANAL+ SPORT 2 SD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/163032
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplssp3.png" ,CANAL+ SPORT 3 HD 
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/163032
+
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplssp3.png" ,CANAL+ SPORT 3
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400216429
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/fr/cnlpsp.png" , CANAL+ SPORT 3 SD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/163031
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplssp4.png" , CANAL+ SPORT 4 HD 
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/163031
+
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplssp4.png" , CANAL+ SPORT 4
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400216428
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/fr/cnlpsp.png" ,CANAL+ SPORT 4 SD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/163030
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/af.png" , CANAL+ SPORT 5 HD 
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/163030
+
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/af.png" , CANAL+ SPORT 5
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400216427
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/fr/cnlp.l.png" , CANAL+ PREMIERE LEAGUE HD LIVE-ONLEY
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/fr/cnlp.l.png" , CANAL+ PREMIERE LEAGUE
 http://mytv-extra.com:80/t12mgxyb335/9832948789/378288
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplsform1.png" , CANAL+ FORMULA 1  SD
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplsform1.png" , CANAL+ FORMULA 1
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400225171
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplsmoto.png" ,CANAL+ MOTO GP SD 
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplsmoto.png" ,CANAL+ MOTO GP
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400225170
 
 
@@ -2285,13 +2285,24 @@ http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/435962
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Polsat_Sport_Premium_1_Poziome_2021.svg/2560px-Polsat_Sport_Premium_1_Poziome_2021.svg.png" group-title="|SPORTS| Premium 1⚽🚩",POLSAT SPORT 1
-http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium48/index.m3u8|Origin=https://weblivehdplay.ru
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/48/Polsat_Sport_Premium_2_%282021-.n.v.%29.png/revision/latest?cb=20210831073453" group-title="|SPORTS| Premium 1⚽🚩" ,POLSAT SPORT 2
-http://cdn-main.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8|Origin=https://weblivehdplay.ru
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/250px-Polsat_Sport_Extra_2021_gradient.svg.png" group-title="|SPORTS| Premium 1⚽🚩" ,POLSAT SPORTS EKSTRA
-http://cdn-main.lolokoko.tv/polsatsportextra.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium50/index.m3u8|Origin=https://weblivehdplay.ru
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/150px-Polsat_Sport_2021_gradient.svg.png" group-title="|SPORTS| Premium 1⚽🚩",POLSAT SPORT
-http://cdn-main.lolokoko.tv/polsatsportnews.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium47/index.m3u8|Origin=https://weblivehdplay.ru
 
 
 =========================================== TV LOKAL ===========================================
