@@ -45,6 +45,9 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 #EXTINF:-1 group-logo="" group-title="Matchday, 26 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:00 Malaysia vs Oman ✅
 http://50.7.234.10:8278/Arena/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
+#EXTINF:-1 group-logo="" group-title="Matchday, 26 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:00 Malaysia vs Oman (CH02) ✅
+http://50.7.234.10:8278/Bolaarena1/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+
 #EXTINF:-1 group-logo="" group-title="Matchday, 26 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:45 England vs Belgia ✅
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
