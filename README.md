@@ -564,6 +564,22 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330464&ex
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-9.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 9 SD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330465&extension=ts&play_token=GVZS088tcf
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 1 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 2 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium92/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 3 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium93/index.m3u8|Origin=https://weblivehdplay.ru
+
+
 #EXTINF:-1 tvg-id="BeInSports1Eng" tvg-name="BeINSportsEnglish2" tvg-logo="https://i.postimg.cc/h4pTtn0M/download-2024-02-03-T043203-900.jpg" group-title="|SPORTS| Premium 2⚽🚩",BeIN Sports 1 English 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
