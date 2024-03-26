@@ -878,7 +878,7 @@ https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-026/stream.mpd
 #EXTINF:-1 group-title="|SPORTS| Premium 2⚽🚩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0su8VFOBqkuC63yrdbW0KiouUb-fYH3-dLlxzCdWggg&s",Unbeaten TV
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-044/stream.mpd?p=web
 
-#EXTINF:-1 tvg-id="daznlalige.es" tvg-logo="https://i.imgur.com/8PXuuBG.png" group-title="|SPORTS| Premium 2⚽🚩", Dazn La Liga 
+#EXTINF:-1 tvg-id="daznlalige.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/175px-DAZN_LaLiga_2023_Logo.svg.png" group-title="|SPORTS| Premium 2⚽🚩", Dazn La Liga 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
@@ -888,13 +888,13 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd?p=web
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 
-#EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i.imgur.com/YcZ6VfT.png" group-title="|SPORTS| Premium 2⚽🚩", Dazn Es 1 
+#EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1280px-DAZN_1_Logo.svg.png" group-title="|SPORTS| Premium 2⚽🚩", Dazn Es 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd?p=web
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://i.imgur.com/Hd1tcp4.png" group-title="|SPORTS| Premium 2⚽🚩", Dazn Es 2 
+#EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="|SPORTS| Premium 2⚽🚩", Dazn Es 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd?p=web
