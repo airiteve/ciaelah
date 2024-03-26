@@ -2208,36 +2208,36 @@ https://sport.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" , CANAL+ SPORT 1 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/400216431
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/163033
 
 #EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" ,CANAL+ SPORT 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webhdrus.onlinehdhls.ru/lb/premium487/index.m3u8
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/400216430
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/163032
 
 #EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" ,CANAL+ SPORT 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webhdrus.onlinehdhls.ru/lb/premium488/index.m3u8
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/400216429
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/163031
 
 #EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" , CANAL+ SPORT 4
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webhdrus.onlinehdhls.ru/lb/premium489/index.m3u8
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/400216428
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/163030
 
 #EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" , CANAL+ SPORT 5
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webhdrus.onlinehdhls.ru/lb/premium490/index.m3u8
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/400216427
 
