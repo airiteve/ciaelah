@@ -543,27 +543,6 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
 #https://webudit.hlsjs.ru/lb/premium64/index.m3u8|Origin=https://weblivehdplay.ru
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="|SPORTS| Arabic🚩",BeIN Sports Global SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330456&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 1 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330457&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 2 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330458&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 3 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330459&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 4 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330460&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 5 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330461&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 6 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330462&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 7 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330463&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-8.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 8 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330464&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-9.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 9 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:FE:9B&stream=1330465&extension=ts&play_token=GVZS088tcf
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 1 HD
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
@@ -578,6 +557,37 @@ https://webhdrus.onlinehdhls.ru/lb/premium92/index.m3u8|Origin=https://weblivehd
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webhdrus.onlinehdhls.ru/lb/premium93/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 4 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium94/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 5 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium95/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 6 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium96/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 7 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium97/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-8.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 8 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium98/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK7Y84R/Bein-9.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 9 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium99/index.m3u8|Origin=https://weblivehdplay.ru
+
 
 
 #EXTINF:-1 tvg-id="BeInSports1Eng" tvg-name="BeINSportsEnglish2" tvg-logo="https://i.postimg.cc/h4pTtn0M/download-2024-02-03-T043203-900.jpg" group-title="|SPORTS| Premium 2⚽🚩",BeIN Sports 1 English 
@@ -1318,6 +1328,11 @@ https://webhdrus.onlinehdhls.ru/lb/premium120/index.m3u8|Origin=https://webliveh
 https://webhdrus.onlinehdhls.ru/lb/premium120/index.m3u8|Origin=https://weblivehdplay.ru
 #https://webudit.hlsjs.ru/lb/premium121/index.m3u8|Origin=https://weblivehdplay.ru
 
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Canal%2B_Ligue_1_Uber_Eats.png/640px-Logo_Canal%2B_Ligue_1_Uber_Eats.png",Canal+Ligue1 Uber Eats
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-046/stream.mpd
 
 #EXTINF:-1 tvg-id="CanalPlusSportFrance.fr" tvg-name="Canal+ Sport France" tvg-logo="https://dl.dropboxusercontent.com/s/cuqmceeumh8dm11/canal%2B.png" group-title="|SPORTS| Premium 1⚽🚩",Canal+ Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -2192,30 +2207,45 @@ https://sport.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 =========================================== CANAL+ SPORTS ===========================================
 
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplssp1.png" , CANAL+ SPORT 1 
-http://mytv-extra.com:80/t12mgxyb335/9832948789/400216431
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" , CANAL+ SPORT 1 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/400216431
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/163033
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplssp2.png" ,CANAL+ SPORT 2
-http://mytv-extra.com:80/t12mgxyb335/9832948789/400216430
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" ,CANAL+ SPORT 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium487/index.m3u8
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/400216430
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/163032
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplssp3.png" ,CANAL+ SPORT 3
-http://mytv-extra.com:80/t12mgxyb335/9832948789/400216429
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" ,CANAL+ SPORT 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium488/index.m3u8
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/400216429
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/163031
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplssp4.png" , CANAL+ SPORT 4
-http://mytv-extra.com:80/t12mgxyb335/9832948789/400216428
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" , CANAL+ SPORT 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium489/index.m3u8
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/400216428
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/163030
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/af.png" , CANAL+ SPORT 5
-http://mytv-extra.com:80/t12mgxyb335/9832948789/400216427
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" , CANAL+ SPORT 5
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium490/index.m3u8
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/400216427
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/fr/cnlp.l.png" , CANAL+ PREMIERE LEAGUE
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png" , CANAL+ PREMIERE LEAGUE
 http://mytv-extra.com:80/t12mgxyb335/9832948789/378288
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplsform1.png" , CANAL+ FORMULA 1
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/Logo_C%2BFormule_1.png" , CANAL+ FORMULA 1
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400225171
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://lo1.in/af/caplsmoto.png" ,CANAL+ MOTO GP
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f5/C%2BMoto_GP.png" ,CANAL+ MOTO GP
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400225170
 
 
