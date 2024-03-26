@@ -47,7 +47,7 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 26 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",19:00 Indonesia vs Vietnam (CH03 VTV) ✅
-https://wintv.fun/360/157/index.m3u8
+http://171.238.181.52:18080/194.m3u8
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 26 Maret✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:00 Malaysia vs Oman ✅
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
