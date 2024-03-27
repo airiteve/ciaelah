@@ -1928,27 +1928,27 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VDqDFL0/setantaspkz.png" group-title="Setanta Sports", SETANTA SPORTS RU
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VDqDFL0/setantaspkz.png" group-title="|SPORTS| Premium 1⚽🚩", SETANTA SPORTS RU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VDqDFL0/setantaspkz.png" group-title="Setanta Sports", SETANTA SPORTS KZ
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VDqDFL0/setantaspkz.png" group-title="|SPORTS| Premium 1⚽🚩", SETANTA SPORTS KZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hyShPmQ/setantasp1.png" group-title="Setanta Sports", SETANTA SPORTS RU 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hyShPmQ/setantasp1.png" group-title="|SPORTS| Premium 1⚽🚩", SETANTA SPORTS RU 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hyShPmQ/setantasp1.png" group-title="Setanta Sports", SETANTA SPORTS KZ 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hyShPmQ/setantasp1.png" group-title="|SPORTS| Premium 1⚽🚩", SETANTA SPORTS KZ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpKYZrr/setantasp2.png" group-title="Setanta Sports", SETANTA SPORTS RU 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpKYZrr/setantasp2.png" group-title="|SPORTS| Premium 1⚽🚩", SETANTA SPORTS RU 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpKYZrr/setantasp2.png" group-title="Setanta Sports", SETANTA SPORTS KZ 2 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpKYZrr/setantasp2.png" group-title="|SPORTS| Premium 1⚽🚩", SETANTA SPORTS KZ 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
 
