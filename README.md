@@ -1317,15 +1317,6 @@ https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vJcjgvBMUxmDt6q2v2Qq2A","k":"3f0hJoDriRt1VhDqxb7PhQ"}]}
 https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 
-http://hcm.nekocdn.xyz/KSPORT1/index.m3u8
-#http://vcis.nekocdn.xyz/ksport1/index.m3u8
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 
-http://hcm.nekocdn.xyz/KSPORT2/index.m3u8
-#http://vcis.nekocdn.xyz/ksport2/index.m3u8
-
 #EXTINF:-1 tvg-id="SportsTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Sporttv_logo.png" group-title="|SPORTS| Premium 1⚽🚩", Sports TV1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
