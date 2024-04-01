@@ -1656,12 +1656,6 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd?p=web
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
 
 #EXTINF:0 group-title="|SPORTS| Premium 1⚽🚩" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",Viaplay Sports 1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium451/index.m3u8|Origin=https://weblivehdplay.ru
-#https://webudit.webhd.ru/lb/premium451/index.m3u8|Origin=https://weblivehdplay.ru
-
-#EXTINF:0 group-title="|SPORTS| Premium 1⚽🚩" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",Viaplay Sports SE 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1669,20 +1663,12 @@ https://webhdrus.onlinehdhls.ru/lb/premium451/index.m3u8|Origin=https://webliveh
 http://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/vpsports1uk.isml/index.mpd
 #https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/vpsports1uk.isml/index.mpd
 
-#EXTINF:0 group-title="|SPORTS| Premium 1⚽🚩" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",Viaplay Sports SE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#EXTINF:0 group-title="|SPORTS| Premium 1⚽🚩" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",Viaplay Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
 http://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd
-
-#EXTINF:0 group-title="|SPORTS| Premium 1⚽🚩" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",Viaplay Sports 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium550/index.m3u8|Origin=https://weblivehdplay.ru
-#https://webudit.hlsjs.ru/lb/premium550/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="NovaSport1.cz" tvg-logo="https://i.ibb.co/56y8MCX/novasport1.png" group-title="|SPORTS| Premium 1⚽🚩", SK- Nova Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
