@@ -1752,6 +1752,11 @@ https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-033/stream.mpd?p=web
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="|SPORTS| Fotbal⚽",Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
+#EXTINF:-1 tvg-id="SuperSport MáXimo 1" tvg-name="SuperSport MáXimo 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="|SPORTS| Fotbal⚽",Barca TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8|Origin=https://weblivehdplay.ru
+
 #EXTINF:-1 tvg-chno="" tvg-id="LFCTV.uk" tvg-name="LFC TV" tvg-logo="https://i.imgur.com/hWdxcRX.png" group-title="|SPORTS| Fotbal⚽",LFC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=45268&extension=ts&play_token=s9LESp5By3
@@ -2393,7 +2398,7 @@ https://raw.githubusercontent.com/Acil2125/ee/main/ssact.m3u8
 #https://webudit.hlsjs.ru/lb/premium368/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="SS Football" tvg-name="SS Football" tvg-logo="https://i.postimg.cc/qq59P9F7/SS-Football.png" group-title="|SPORTS| Premium 2⚽🚩",Supersport Football 
-https://raw.githubusercontent.com/Acil2125/ee/main/ssfb
+https://raw.githubusercontent.com/Acil2125/ee/main/ssfb.m3u8
 #https://webudit.hlsjs.ru/lb/premium56/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="SS Golf" tvg-name="SS Golf" tvg-logo="https://i.postimg.cc/3xDGpmC4/SS-Golf.png" group-title="|SPORTS| Premium 2⚽🚩",Supersport Golf 
