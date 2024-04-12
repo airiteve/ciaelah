@@ -2404,7 +2404,7 @@ https://raw.githubusercontent.com/Acil2125/ee/main/ssact.m3u8
 #EXTVLCOPT:http-referrer=https://key.webhd.ru/wmsxx.php 
 #https://webudit.hlsjs.ru/lb/premium368/index.m3u8|Origin=https://weblivehdplay.ru
 
-#EXTINF:-1 tvg-id="SS Football" tvg-name="SS Football" tvg-logo="https://i.postimg.cc/qq59P9F7/SS-Football.png" group-title="|SPORTS| Premium 1⚽🚩",Supersport Football 
+#EXTINF:-1 tvg-id="SS Football" tvg-name="SS Football" tvg-logo="https://i.postimg.cc/qq59P9F7/SS-Football.png" group-title="|SPORTS| Premium 2⚽🚩",Supersport Football 
 https://raw.githubusercontent.com/Acil2125/ee/main/ssfb.m3u8
 #https://webudit.hlsjs.ru/lb/premium56/index.m3u8|Origin=https://weblivehdplay.ru
 
