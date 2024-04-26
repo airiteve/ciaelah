@@ -3309,6 +3309,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://srtv.my.id/vd/play.m3u8?id=206&type=hls
+#EXTINF:0 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="|TV| Indonesia🟥⬜",Moji HD 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
+#EXTINF:0 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="|TV| Indonesia🟥⬜",Moji HD 2
+http://iptvtree.net:8080/c4596f70/c3848d92/298550
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="|TV| Indonesia🟥⬜"catchup="", Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr3.dens.tv/s/s41/index.m3u8
