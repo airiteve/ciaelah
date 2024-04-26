@@ -1016,7 +1016,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/soccer-2.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 ===============================================================================
 
@@ -1309,8 +1309,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="SPORTSTARS 3" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="|SPORTS| Asia Indonesia🚩",SPORTSTARS 3 (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/soccer-2.mpd
-#https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
